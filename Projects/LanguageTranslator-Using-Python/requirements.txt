@@ -1,2 +1,2 @@
 SpeechRecognition==3.9.0
-translate==3.61
+translate==3.6.1
